@@ -1,0 +1,40 @@
+header{
+	background-color: orange;
+	/*width: 1000px;
+	height: 300px;*/
+	margin: 0 auto;
+	font-size: 0;
+	display: inline-block;
+
+}
+img{
+	display: inline-block;
+	width: 100px;
+
+}
+ul{
+	height: 70%;
+	font-size: 15px;
+	display: inline-block;	
+	margin-top: 0px;
+	position: relative;
+	top: 0px;
+	vertical-align: top;
+	list-style: none;
+
+}
+li{
+	vertical-align: top;
+	margin-top: 2px;
+
+}
+a{
+	color: grey;
+}
+.bouton{
+	margin-left: 0px;
+	font-size: 10px;
+	padding: 20px;
+	background-color: black;
+	/*display: inline-block;*/
+}
